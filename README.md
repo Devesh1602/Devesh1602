@@ -115,6 +115,3 @@ I'm specialise in building robust backends that do all the heavy lifting for you
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
