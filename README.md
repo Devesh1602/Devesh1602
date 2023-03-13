@@ -1,4 +1,4 @@
-# Hey 👋, I'm Devesh Singh, a full-time full-stack developer 👨‍💻 
+# Hey 👋, I'm Devesh Singh, a full-time Full-Stack Developer 👨‍💻 
   
 
 <a href="https://github.com/Devesh1602" target="_blank">
