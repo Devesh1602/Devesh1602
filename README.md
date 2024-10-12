@@ -31,13 +31,13 @@ I'm specialise in building robust backends that do all the heavy lifting for you
 - 🔭 I’m currently working on myself!  
   
 
-- 🌱 I’m currently learning AI/ML  
+- 🌱 Deep diving in the field of AI/ML  
   
 
 - ❓ Ask me about anything related to Web and App technologies!  
   
 
-- ⚡ Fun fact: I keep night shift switched on at all times !  
+- ⚡ Fun fact: I keep the night shift switched on at all times!  
 
 
 </td></tr></table>  
