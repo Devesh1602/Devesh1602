@@ -17,6 +17,9 @@
 ### Glad to see you here!  
 I’m a full-stack developer and being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 I'm specialise in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronised and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+
+
+💡 Update: I’ve been quieter on my public GitHub for the past few months, not because I stopped building, but because I was contributing heavily to my company’s private repositories on some amazing projects and exciting stuff! Now I’m back to pushing updates here as well, and excited to build in both worlds again. 🚀
   
 
 <br/>  
