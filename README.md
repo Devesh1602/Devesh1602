@@ -23,9 +23,9 @@ I also enjoy taking ideas from **research and experimentation to working impleme
 
 ### Research
 
-🔬 **AI + Human Brain** — Currently researching **AI-Embedding-in-the-Human-Brain**, exploring how AI could potentially integrate with human cognition to augment cognitive capabilities and create a synergistic human-AI system.
+🔬 **AI + Human Brain** — Currently researching **AI Embedding in the Human Brain**, exploring how AI could potentially integrate with human cognition to augment cognitive capabilities and create a synergistic human-AI system.
 
-🏥 **AI in Healthcare** — Researched and implemented **AI-based Autism Spectrum Disorder detection**, exploring how machine learning can support earlier and more accessible detection. This work also resulted in a **published research paper**.
+🏥 **AI in Healthcare** — Researched and implemented **AI based Autism Spectrum Disorder detection**, exploring how machine learning can support earlier and more accessible detection. This work also resulted in a **published research paper**.
 
 ### Find Me Online
 
